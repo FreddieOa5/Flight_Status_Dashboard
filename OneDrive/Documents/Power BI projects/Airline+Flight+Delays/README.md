@@ -50,7 +50,7 @@ This project explores airline on-time performance to answer questions such as:
 - **DAX**: measures such as Total Flights, Delayed Flights, Delay %, Cancellation %, and MoM % change
 - **Data modeling**: [ Airlines → Flights,  Airports → Flights,  Cancellation_codes → Flights]
 
-### Example DAX measures
+###DAX measures
 
 ```DAX
 Total Flights = COUNTROWS(Flights)
